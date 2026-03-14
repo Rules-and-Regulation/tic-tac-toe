@@ -5,9 +5,10 @@ To run it:
 - clone this repo
 - cd to the folder
 
-and paste these commands on the terminal
+and paste these commands in the terminal
 
 ```bash
 npm i
 npm run dev
 ```
+[live project](https://tic-tac-toe-nu-flax-84.vercel.app/)
